@@ -1,0 +1,6 @@
+C:\Users\Guadalupe\Documents\Repositorios\Perceptron4Entradas\Perceptron4Entradas\bin\Debug\Perceptron4Entradas.exe.config
+C:\Users\Guadalupe\Documents\Repositorios\Perceptron4Entradas\Perceptron4Entradas\bin\Debug\Perceptron4Entradas.exe
+C:\Users\Guadalupe\Documents\Repositorios\Perceptron4Entradas\Perceptron4Entradas\bin\Debug\Perceptron4Entradas.pdb
+C:\Users\Guadalupe\Documents\Repositorios\Perceptron4Entradas\Perceptron4Entradas\obj\Debug\Perceptron4Entradas.csprojAssemblyReference.cache
+C:\Users\Guadalupe\Documents\Repositorios\Perceptron4Entradas\Perceptron4Entradas\obj\Debug\Perceptron4Entradas.exe
+C:\Users\Guadalupe\Documents\Repositorios\Perceptron4Entradas\Perceptron4Entradas\obj\Debug\Perceptron4Entradas.pdb
